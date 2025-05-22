@@ -1,5 +1,10 @@
 # GothamSonic Music Player 🎵
 
+
+### 📸 Screenshot
+
+![Player Screenshot](./HLSPlayer-screenshot.png)
+
 A professional-grade React music player built with adaptive bitrate streaming via `hls.js`. Actively powering the live music experience on [GothamSonic.com](https://gothamsonic.com), this player is designed to be fast, responsive, and highly interactive.
 
 ### 🔧 Features
@@ -22,6 +27,3 @@ A professional-grade React music player built with adaptive bitrate streaming vi
 
 ---
 
-### 📸 Screenshot
-
-![Player Screenshot](./HLSPlayer-screenshot.png)
