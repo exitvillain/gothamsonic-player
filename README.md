@@ -1,7 +1,5 @@
-# GothamSonic Music Player 🎵
+# GothamSonic Music Player 
 
-
-### Screenshot of the music player:
 
 ![Player Screenshot](./GothamSonicPlayerPicture.png)
 
