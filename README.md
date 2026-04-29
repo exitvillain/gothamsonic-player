@@ -5,7 +5,7 @@
 
 ![Player Screenshot](./GothamSonicPlayerPicture.png)
 
-ctively powering the live music experience on [GothamSonic.com](https://gothamsonic.com), this player is designed to be fast, responsive, and highly interactive.
+Actively powering the live music experience on [GothamSonic.com](https://gothamsonic.com), this player is designed to be fast, responsive, and highly interactive.
 
 ### GothamSonic
 
