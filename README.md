@@ -7,18 +7,13 @@
 
 A professional-grade React music player built with adaptive bitrate streaming via `hls.js`. Actively powering the live music experience on [GothamSonic.com](https://gothamsonic.com), this player is designed to be fast, responsive, and highly interactive.
 
-### 🔧 Features
+### GothamSonic
 
-- **Adaptive Bitrate Streaming** – Real-time stream quality adjustment using HLS.js.
-- **Single Global Player** – Avoids multiple audio overlaps across components.
-- **Core Controls** – Play, pause, like/unlike, skip, and seek via an intuitive UI.
-- **Dynamic Track Queue** – Tracks load from a live API and can be selected individually.
-- **Playlist Support** – Users can create playlists, reorder tracks, and play them start-to-finish.
-- **Infinite Scroll** – Automatically loads more songs as users scroll the feed.
-- **Sort by Likes / Recency** – Toggle between most popular or newest tracks on the fly.
-- **Mobile-Optimized UI** – Styled for clarity on both desktop and mobile devices.
+A professional React music player with adaptive bitrate streaming via HLS.js. Powers the live player at GothamSonic.com, featuring real-time track switching, playlist support, infinite scroll, and sorting by most liked or most recent.
 
-### 🛠️ Tech Stack
+Just trying to make a cool little new york city based music site where you can upload songs, create an artist account, and look out for local shows and music news. The site is up, look out for improvements daily! 
+
+### Tech Stack
 
 - React 18
 - HLS.js
