@@ -1,9 +1,9 @@
 # GothamSonic Music Player 
 
 
-![Player Screenshot](./GothamSonicPlayerPicture.png)
+![Player Screenshot](./gothamsonicplayerpicture.png)
 
-Actively powering the live music experience on [GothamSonic.com](https://gothamsonic.com), this player is designed to be fast, responsive, and highly interactive.
+Actively powering the live music experience on [GothamSonic.com](https://gothamsonic.com), this player is designed to be fast, responsive, and highly interactive. Complete with a like button and next button.  Analystics like clicks, and play count also get recorded! 
 
 ### GothamSonic
 
